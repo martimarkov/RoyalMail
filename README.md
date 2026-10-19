@@ -1,4 +1,4 @@
-# ![Logo](https://github.com/jampez77/RoyalMail/blob/main/logo.png "Royal Mail Logo") Royal Mail parcel tracking for Home Assistant
+# ![Logo](https://github.com/martimarkov/RoyalMail/blob/main/logo.png "Royal Mail Logo") Royal Mail parcel tracking for Home Assistant
 
 This integration signs in to your [royalmail.com](https://www.royalmail.com) account and adds a sensor to [Home Assistant](https://www.home-assistant.io/) for every item in the account's tracked items. That includes items you track in the Royal Mail app, so parcels show up on their own, with no tracking numbers to type in.
 
@@ -8,11 +8,6 @@ This integration signs in to your [royalmail.com](https://www.royalmail.com) acc
 [![License][license-shield]](LICENSE)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 ![Project Maintenance][maintenance-shield]
-
-
-Enjoying this? Help me out with a :beers: or :coffee:!
-
-[![coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/whenitworks)
 
 ## Requirements
 
@@ -26,7 +21,7 @@ Enjoying this? Help me out with a :beers: or :coffee:!
 Search for **Royal Mail** in HACS and download it. If it isn't listed, add the repository yourself:
 
 1. In HACS, open the ⋮ menu and choose **Custom repositories**.
-2. Paste `https://github.com/jampez77/RoyalMail` into **Repository**, pick **Integration** as the type and select **Add**.
+2. Paste `https://github.com/martimarkov/RoyalMail` into **Repository**, pick **Integration** as the type and select **Add**.
 3. Search for **Royal Mail**, download it and restart Home Assistant.
 
 ### Manually
